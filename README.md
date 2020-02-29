@@ -1,11 +1,11 @@
-# multiagent multiscale A*
-Multi Agent Multi Scale A* is a shortest path planning algorithm for multi agents in multi scale graphs.
+# Multi-Agent Multi-Scale A*
+Multi-Agent Multi-Scale A* is a shortest path planning algorithm for multi agents in multi scale graphs.
 
 ## Install
 ``` bash
 $ cd catkin_ws/src
 $ catkin_init_workspace
-$ git clone https://github.gatech.edu/jlim78/mams_a.git
+$ git clone https://github.gatech.edu/DCSL/mams_astar.git
 $ catkin build mams_astar
 ```
 
