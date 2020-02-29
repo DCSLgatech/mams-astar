@@ -1,7 +1,7 @@
 # Multi-Agent Multi-Scale A*
 Multi-Agent Multi-Scale A* is a shortest path planning algorithm for multi agents in multi scale graphs.
 
-[![Youtube Video](http://img.youtube.com/vi/KJ0cPXKepI0/0.jpg)](http://www.youtube.com/watch?v=KJ0cPXKepI0)
+[![http://www.youtube.com/watch?v=KJ0cPXKepI0](http://img.youtube.com/vi/KJ0cPXKepI0/0.jpg)](http://www.youtube.com/watch?v=KJ0cPXKepI0)
 
 ## Install
 ``` bash
