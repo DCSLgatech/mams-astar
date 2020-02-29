@@ -1,0 +1,11 @@
+Header header
+int64 agent_ID
+int64[] node_key
+int64 node_size
+float64 cost_to_come
+float64 cost_to_go
+float64 node_value
+int64[] predecessor_key
+int64 predecessor_size
+int64 node_ID
+bool terminated
